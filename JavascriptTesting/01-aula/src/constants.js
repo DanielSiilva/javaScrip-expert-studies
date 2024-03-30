@@ -5,4 +5,4 @@ const constants = {
   },
 };
 
-module.export = constants;
+module.exports = constants;
